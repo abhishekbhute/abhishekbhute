@@ -25,7 +25,7 @@ At 23 years old, I am committed to staying in tune with the latest technologies 
 
 📧 Email: [abbybhute@gmail.com](mailto:abbybhute@gmail.com)
 
-💼 LinkedIn: [Abhishek Bhute LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-bhute-088796188/))
+💼 LinkedIn: [Abhishek Bhute LinkedIn](https://www.linkedin.com/in/abhishek-bhute-088796188/)
 
 Feel free to reach out if you have any questions or if there's anything I can help you with!
 
