@@ -29,5 +29,5 @@ At 23 years old, I am committed to staying in tune with the latest technologies 
 
 Feel free to reach out if you have any questions or if there's anything I can help you with!
 
-<img align="left" alt="Abhishek Bhute's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekbhute&show_icons=true&hide_border=true" />
+<img align="left" alt="Abhishek Bhute's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekbhute&show_icons=true&hide_border=true&count_private=true&theme=transparent)" />
 
