@@ -3,7 +3,7 @@
 ## About Me
 I am a passionate and dedicated full-stack software engineer with a strong focus on delivering high-quality code in a timely manner. I am currently working as a Software Engineer at [Clarivate](https://clarivate.com/), where I contribute to building innovative solutions.
 
-At 23 years old, I am committed to staying in tune with the latest technologies and continuously improving my skills. I believe in lifelong learning and actively seek out opportunities to learn new technologies and enhance my expertise.
+I am committed to staying in tune with the latest technologies and continuously improving my skills. I believe in lifelong learning and actively seek out opportunities to learn new technologies and enhance my expertise.
 
 ## Skills
 
