@@ -1,7 +1,7 @@
 # Hi there, I'm Abhishek Bhute! 👋
 
 ## About Me
-I am a passionate and dedicated full-stack software engineer with a strong focus on delivering high-quality code in a timely manner. I am currently working as a Software Engineer at [Clarivate](https://clarivate.com/), where I contribute to building innovative solutions.
+I am a passionate and dedicated full-stack software engineer with a strong focus on delivering high-quality code in a timely manner. I am currently working as a Software Engineer at [Deloitte](https://www2.deloitte.com/in/en.html), where I contribute to building innovative solutions.
 
 I am committed to staying in tune with the latest technologies and continuously improving my skills. I believe in lifelong learning and actively seek out opportunities to learn new technologies and enhance my expertise.
 
